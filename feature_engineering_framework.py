@@ -6,7 +6,7 @@ from datetime import timedelta
 #path to get the event log in .csv format
 #example dataset
 directory= "BPIC17.csv"
-dataset_names=["BPIC17"]
+dataset_name=["BPIC17"]
 
 #define columns for case ID, activity, resource and timestamp
 case_id_col = 'case:concept:name'
